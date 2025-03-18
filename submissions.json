@@ -51,5 +51,16 @@
       "Hash Table",
       "Sorting"
     ]
+  },
+  {
+    "id": 242,
+    "title": "Valid Anagram",
+    "title_slug": "valid-anagram",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "Sorting",
+      "String"
+    ]
   }
 ]
