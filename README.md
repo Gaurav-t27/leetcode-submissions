@@ -13,3 +13,4 @@
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | Easy | `String` `Two Pointers` |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy | `Array` `Hash Table` `Sorting` |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | Easy | `Hash Table` `Sorting` `String` |
+| 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | Medium | `Array` `Bucket Sort` `Counting` `Divide and Conquer` `Hash Table` `Heap (Priority Queue)` `Quickselect` `Sorting` |
