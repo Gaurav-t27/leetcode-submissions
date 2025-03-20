@@ -54,6 +54,17 @@
     ]
   },
   {
+    "id": 128,
+    "title": "Longest Consecutive Sequence",
+    "title_slug": "longest-consecutive-sequence",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Union-Find"
+    ]
+  },
+  {
     "id": 217,
     "title": "Contains Duplicate",
     "title_slug": "contains-duplicate",
