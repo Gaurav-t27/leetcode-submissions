@@ -55,6 +55,17 @@
     ]
   },
   {
+    "id": 76,
+    "title": "Minimum Window Substring",
+    "title_slug": "minimum-window-substring",
+    "difficulty": "Hard",
+    "skills": [
+      "Hash Table",
+      "Sliding Window",
+      "String"
+    ]
+  },
+  {
     "id": 121,
     "title": "Best Time to Buy and Sell Stock",
     "title_slug": "best-time-to-buy-and-sell-stock",
