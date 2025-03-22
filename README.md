@@ -10,6 +10,7 @@
 | 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | Medium | `Hash Table` `Sliding Window` `String` |
 | 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | Medium | `Array` `Greedy` `Two Pointers` |
 | 0015 | [3Sum](https://leetcode.com/problems/3sum) | Medium | `Array` `Sorting` `Two Pointers` |
+| 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | Easy | `Stack` `String` |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | Medium | `Array` `Hash Table` `Sorting` `String` |
 | 0076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | Hard | `Hash Table` `Sliding Window` `String` |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy | `Array` `Dynamic Programming` |

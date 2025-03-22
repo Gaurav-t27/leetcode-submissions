@@ -43,6 +43,16 @@
     ]
   },
   {
+    "id": 20,
+    "title": "Valid Parentheses",
+    "title_slug": "valid-parentheses",
+    "difficulty": "Easy",
+    "skills": [
+      "Stack",
+      "String"
+    ]
+  },
+  {
     "id": 49,
     "title": "Group Anagrams",
     "title_slug": "group-anagrams",
