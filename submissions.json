@@ -53,6 +53,16 @@
     ]
   },
   {
+    "id": 21,
+    "title": "Merge Two Sorted Lists",
+    "title_slug": "merge-two-sorted-lists",
+    "difficulty": "Easy",
+    "skills": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
     "id": 33,
     "title": "Search in Rotated Sorted Array",
     "title_slug": "search-in-rotated-sorted-array",
