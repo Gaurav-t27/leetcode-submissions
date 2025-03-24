@@ -73,6 +73,18 @@
     ]
   },
   {
+    "id": 23,
+    "title": "Merge k Sorted Lists",
+    "title_slug": "merge-k-sorted-lists",
+    "difficulty": "Hard",
+    "skills": [
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Linked List",
+      "Merge Sort"
+    ]
+  },
+  {
     "id": 33,
     "title": "Search in Rotated Sorted Array",
     "title_slug": "search-in-rotated-sorted-array",
