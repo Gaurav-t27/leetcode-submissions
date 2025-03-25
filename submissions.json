@@ -118,6 +118,18 @@
     ]
   },
   {
+    "id": 104,
+    "title": "Maximum Depth of Binary Tree",
+    "title_slug": "maximum-depth-of-binary-tree",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Tree",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 121,
     "title": "Best Time to Buy and Sell Stock",
     "title_slug": "best-time-to-buy-and-sell-stock",
