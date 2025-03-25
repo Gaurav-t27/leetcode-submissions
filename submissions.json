@@ -203,6 +203,18 @@
     ]
   },
   {
+    "id": 226,
+    "title": "Invert Binary Tree",
+    "title_slug": "invert-binary-tree",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Tree",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 238,
     "title": "Product of Array Except Self",
     "title_slug": "product-of-array-except-self",
