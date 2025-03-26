@@ -26,6 +26,7 @@
 | 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Easy | `Hash Table` `Linked List` `Two Pointers` |
 | 0143 | [Reorder List](https://leetcode.com/problems/reorder-list) | Medium | `Linked List` `Recursion` `Stack` `Two Pointers` |
 | 0153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | Medium | `Array` `Binary Search` |
+| 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | Medium | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` `Union-Find` |
 | 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | Easy | `Linked List` `Recursion` |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy | `Array` `Hash Table` `Sorting` |
 | 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | Easy | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
