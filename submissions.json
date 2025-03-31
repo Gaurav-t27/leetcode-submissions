@@ -118,6 +118,19 @@
     ]
   },
   {
+    "id": 79,
+    "title": "Word Search",
+    "title_slug": "word-search",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Backtracking",
+      "Depth-First Search",
+      "Matrix",
+      "String"
+    ]
+  },
+  {
     "id": 100,
     "title": "Same Tree",
     "title_slug": "same-tree",
