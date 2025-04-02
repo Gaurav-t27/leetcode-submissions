@@ -298,6 +298,16 @@
     ]
   },
   {
+    "id": 213,
+    "title": "House Robber II",
+    "title_slug": "house-robber-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 217,
     "title": "Contains Duplicate",
     "title_slug": "contains-duplicate",
