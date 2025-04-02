@@ -27,6 +27,7 @@
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | Easy | `String` `Two Pointers` |
 | 0128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | Medium | `Array` `Hash Table` `Union-Find` |
 | 0133 | [Clone Graph](https://leetcode.com/problems/clone-graph) | Medium | `Breadth-First Search` `Depth-First Search` `Graph Theory` `Hash Table` |
+| 0139 | [Word Break](https://leetcode.com/problems/word-break) | Medium | `Array` `Dynamic Programming` `Hash Table` `Memoization` `String` `Trie` |
 | 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Easy | `Hash Table` `Linked List` `Two Pointers` |
 | 0143 | [Reorder List](https://leetcode.com/problems/reorder-list) | Medium | `Linked List` `Recursion` `Stack` `Two Pointers` |
 | 0153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | Medium | `Array` `Binary Search` |
