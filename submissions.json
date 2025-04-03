@@ -439,5 +439,16 @@
       "String Matching",
       "Tree"
     ]
+  },
+  {
+    "id": 647,
+    "title": "Palindromic Substrings",
+    "title_slug": "palindromic-substrings",
+    "difficulty": "Medium",
+    "skills": [
+      "Dynamic Programming",
+      "String",
+      "Two Pointers"
+    ]
   }
 ]
