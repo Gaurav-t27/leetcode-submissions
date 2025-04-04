@@ -45,6 +45,7 @@
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | Easy | `Hash Table` `Sorting` `String` |
 | 0300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) | Medium | `Array` `Binary Search` `Dynamic Programming` |
 | 0322 | [Coin Change](https://leetcode.com/problems/coin-change) | Medium | `Array` `Breadth-First Search` `Dynamic Programming` |
+| 0338 | [Counting Bits](https://leetcode.com/problems/counting-bits) | Easy | `Bit Manipulation` `Dynamic Programming` |
 | 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | Medium | `Array` `Bucket Sort` `Counting` `Divide and Conquer` `Hash Table` `Heap (Priority Queue)` `Quickselect` `Sorting` |
 | 0417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow) | Medium | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` |
 | 0424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) | Medium | `Hash Table` `Sliding Window` `String` |

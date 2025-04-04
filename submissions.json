@@ -431,6 +431,16 @@
     ]
   },
   {
+    "id": 338,
+    "title": "Counting Bits",
+    "title_slug": "counting-bits",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation",
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 347,
     "title": "Top K Frequent Elements",
     "title_slug": "top-k-frequent-elements",
