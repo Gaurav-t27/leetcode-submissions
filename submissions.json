@@ -288,6 +288,16 @@
     ]
   },
   {
+    "id": 191,
+    "title": "Number of 1 Bits",
+    "title_slug": "number-of-1-bits",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation",
+      "Divide and Conquer"
+    ]
+  },
+  {
     "id": 198,
     "title": "House Robber",
     "title_slug": "house-robber",
