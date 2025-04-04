@@ -419,6 +419,20 @@
     ]
   },
   {
+    "id": 268,
+    "title": "Missing Number",
+    "title_slug": "missing-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Bit Manipulation",
+      "Hash Table",
+      "Math",
+      "Sorting"
+    ]
+  },
+  {
     "id": 300,
     "title": "Longest Increasing Subsequence",
     "title_slug": "longest-increasing-subsequence",
