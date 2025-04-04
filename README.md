@@ -32,6 +32,7 @@
 | 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Easy | `Hash Table` `Linked List` `Two Pointers` |
 | 0143 | [Reorder List](https://leetcode.com/problems/reorder-list) | Medium | `Linked List` `Recursion` `Stack` `Two Pointers` |
 | 0153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | Medium | `Array` `Binary Search` |
+| 0190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | Easy | `Bit Manipulation` `Divide and Conquer` |
 | 0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | Easy | `Bit Manipulation` `Divide and Conquer` |
 | 0198 | [House Robber](https://leetcode.com/problems/house-robber) | Medium | `Array` `Dynamic Programming` |
 | 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | Medium | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` `Union-Find` |

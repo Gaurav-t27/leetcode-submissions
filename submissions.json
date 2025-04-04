@@ -288,6 +288,16 @@
     ]
   },
   {
+    "id": 190,
+    "title": "Reverse Bits",
+    "title_slug": "reverse-bits",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation",
+      "Divide and Conquer"
+    ]
+  },
+  {
     "id": 191,
     "title": "Number of 1 Bits",
     "title_slug": "number-of-1-bits",
