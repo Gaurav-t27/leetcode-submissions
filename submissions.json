@@ -481,6 +481,16 @@
     ]
   },
   {
+    "id": 371,
+    "title": "Sum of Two Integers",
+    "title_slug": "sum-of-two-integers",
+    "difficulty": "Medium",
+    "skills": [
+      "Bit Manipulation",
+      "Math"
+    ]
+  },
+  {
     "id": 417,
     "title": "Pacific Atlantic Water Flow",
     "title_slug": "pacific-atlantic-water-flow",
