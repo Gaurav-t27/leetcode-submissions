@@ -17,6 +17,7 @@
 | 0023 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | Hard | `Divide and Conquer` `Heap (Priority Queue)` `Linked List` `Merge Sort` |
 | 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | Medium | `Array` `Binary Search` |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | Medium | `Array` `Hash Table` `Sorting` `String` |
+| 0056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | Medium | `Array` `Sorting` |
 | 0057 | [Insert Interval](https://leetcode.com/problems/insert-interval) | Medium | `Array` |
 | 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy | `Dynamic Programming` `Math` `Memoization` |
 | 0076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | Hard | `Hash Table` `Sliding Window` `String` |

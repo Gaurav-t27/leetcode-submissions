@@ -118,6 +118,16 @@
     ]
   },
   {
+    "id": 56,
+    "title": "Merge Intervals",
+    "title_slug": "merge-intervals",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
     "id": 57,
     "title": "Insert Interval",
     "title_slug": "insert-interval",
