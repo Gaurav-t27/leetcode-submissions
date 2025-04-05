@@ -118,6 +118,15 @@
     ]
   },
   {
+    "id": 57,
+    "title": "Insert Interval",
+    "title_slug": "insert-interval",
+    "difficulty": "Medium",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 70,
     "title": "Climbing Stairs",
     "title_slug": "climbing-stairs",
