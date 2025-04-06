@@ -533,6 +533,18 @@
     ]
   },
   {
+    "id": 435,
+    "title": "Non-overlapping Intervals",
+    "title_slug": "non-overlapping-intervals",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
     "id": 572,
     "title": "Subtree of Another Tree",
     "title_slug": "subtree-of-another-tree",
