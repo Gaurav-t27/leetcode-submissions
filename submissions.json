@@ -592,5 +592,15 @@
       "String",
       "Two Pointers"
     ]
+  },
+  {
+    "id": 1249,
+    "title": "Minimum Remove to Make Valid Parentheses",
+    "title_slug": "minimum-remove-to-make-valid-parentheses",
+    "difficulty": "Medium",
+    "skills": [
+      "Stack",
+      "String"
+    ]
   }
 ]

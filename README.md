@@ -59,3 +59,4 @@
 | 0435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals) | Medium | `Array` `Dynamic Programming` `Greedy` `Sorting` |
 | 0572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) | Easy | `Binary Tree` `Depth-First Search` `Hash Function` `String Matching` `Tree` |
 | 0647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | Medium | `Dynamic Programming` `String` `Two Pointers` |
+| 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses) | Medium | `Stack` `String` |
