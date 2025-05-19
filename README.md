@@ -45,6 +45,7 @@
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy | `Array` `Hash Table` `Sorting` |
 | 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | Easy | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 0235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | Medium | `Binary Search Tree` `Binary Tree` `Depth-First Search` `Tree` |
+| 0236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | Medium | `Binary Tree` `Depth-First Search` `Tree` |
 | 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | Medium | `Array` `Prefix Sum` |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | Easy | `Hash Table` `Sorting` `String` |
 | 0268 | [Missing Number](https://leetcode.com/problems/missing-number) | Easy | `Array` `Binary Search` `Bit Manipulation` `Hash Table` `Math` `Sorting` |
