@@ -118,6 +118,16 @@
     ]
   },
   {
+    "id": 50,
+    "title": "Pow(x, n)",
+    "title_slug": "powx-n",
+    "difficulty": "Medium",
+    "skills": [
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
     "id": 56,
     "title": "Merge Intervals",
     "title_slug": "merge-intervals",
