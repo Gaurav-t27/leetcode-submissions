@@ -106,6 +106,16 @@
     ]
   },
   {
+    "id": 46,
+    "title": "Permutations",
+    "title_slug": "permutations",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
     "id": 49,
     "title": "Group Anagrams",
     "title_slug": "group-anagrams",
