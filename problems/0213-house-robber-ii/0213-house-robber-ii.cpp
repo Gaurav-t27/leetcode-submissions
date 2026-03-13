@@ -1,27 +1,24 @@
 class Solution {
-public:
-int robUtil(vector<int> nums)
-    {
-        if(nums.size()==0)
-            return 0;
+    int solve(vector<int>& nums, int start, int end) {
+        int prev2 = nums[start];
+        int prev1 = std::max(nums[start],nums[start+1]);
 
-        if(nums.size()==1)
-            return nums[0];
-        
-        vector<int> dp(nums.size(),0);
-        dp[0] = nums[0];
-        dp[1] = max(nums[0],nums[1]);
-        for(int i=2;i<nums.size();i++)
-        {
-            dp[i] = max(dp[i-1], nums[i]+dp[i-2]);
+        for(int i = start+2; i<end; i++) {
+            int curr = std::max(prev1, nums[i]+prev2);
+            prev2 = prev1;
+            prev1 = curr;
         }
-        return dp.back();
+        return prev1;
     }
+public:
     int rob(vector<int>& nums) {
-        if(nums.size()==1)
-            return nums[0];
+        int n = nums.size();
+        if(n == 1) return nums[0];
+        if(n == 2) return std::max(nums[0], nums[1]);
 
-        return max(robUtil(vector<int>(nums.begin()+1,nums.end())),
-        robUtil(vector<int>(nums.begin(),nums.end()-1)));
+        int s1 = solve(nums, 0, n-1);
+        int s2 = solve(nums, 1, n);
+
+        return std::max(s1,s2);
     }
 };
