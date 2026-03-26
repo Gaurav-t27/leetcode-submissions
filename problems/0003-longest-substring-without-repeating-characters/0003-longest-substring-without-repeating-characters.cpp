@@ -1,18 +1,20 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        int maxLen = 0, l = 0;
-        std::unordered_set<char> hs;
-        for (int r = 0;r < s.size();r++)
-        {
-            while (hs.find(s[r]) != hs.end())
-            {
-                hs.erase(s[l]);
-                l++;
+        int start = 0;
+        int max = 0;
+        vector<int> vec(256,-1);
+        for(int end=0;end<s.size();end++) {
+            char current = s[end];
+            if(vec[current] >= start) {
+                start = vec[current] + 1;
             }
-            hs.insert(s[r]);
-            maxLen = std::max(maxLen, r - l +1);
+            vec[current] = end;
+            
+            if(end-start+1 > max) {
+                max = end - start + 1;
+            }
         }
-        return maxLen;
+        return max;
     }
 };
