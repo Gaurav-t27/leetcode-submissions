@@ -328,6 +328,18 @@
     ]
   },
   {
+    "id": 146,
+    "title": "LRU Cache",
+    "title_slug": "lru-cache",
+    "difficulty": "Medium",
+    "skills": [
+      "Design",
+      "Doubly-Linked List",
+      "Hash Table",
+      "Linked List"
+    ]
+  },
+  {
     "id": 153,
     "title": "Find Minimum in Rotated Sorted Array",
     "title_slug": "find-minimum-in-rotated-sorted-array",
