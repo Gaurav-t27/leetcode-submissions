@@ -636,6 +636,17 @@
     ]
   },
   {
+    "id": 506,
+    "title": "Relative Ranks",
+    "title_slug": "relative-ranks",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Heap (Priority Queue)",
+      "Sorting"
+    ]
+  },
+  {
     "id": 560,
     "title": "Subarray Sum Equals K",
     "title_slug": "subarray-sum-equals-k",
