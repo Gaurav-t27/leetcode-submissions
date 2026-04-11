@@ -66,4 +66,5 @@
 | 0560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) | Medium | `Array` `Hash Table` `Prefix Sum` |
 | 0572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) | Easy | `Binary Tree` `Depth-First Search` `Hash Function` `String Matching` `Tree` |
 | 0647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | Medium | `Dynamic Programming` `String` `Two Pointers` |
+| 0703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream) | Easy | `Binary Search Tree` `Binary Tree` `Data Stream` `Design` `Heap (Priority Queue)` `Tree` |
 | 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses) | Medium | `Stack` `String` |

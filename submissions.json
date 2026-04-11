@@ -671,6 +671,20 @@
     ]
   },
   {
+    "id": 703,
+    "title": "Kth Largest Element in a Stream",
+    "title_slug": "kth-largest-element-in-a-stream",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Search Tree",
+      "Binary Tree",
+      "Data Stream",
+      "Design",
+      "Heap (Priority Queue)",
+      "Tree"
+    ]
+  },
+  {
     "id": 1249,
     "title": "Minimum Remove to Make Valid Parentheses",
     "title_slug": "minimum-remove-to-make-valid-parentheses",
