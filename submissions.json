@@ -696,6 +696,19 @@
     ]
   },
   {
+    "id": 705,
+    "title": "Design HashSet",
+    "title_slug": "design-hashset",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Design",
+      "Hash Function",
+      "Hash Table",
+      "Linked List"
+    ]
+  },
+  {
     "id": 1249,
     "title": "Minimum Remove to Make Valid Parentheses",
     "title_slug": "minimum-remove-to-make-valid-parentheses",
