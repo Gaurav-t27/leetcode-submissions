@@ -750,5 +750,18 @@
       "Stack",
       "String"
     ]
+  },
+  {
+    "id": 1337,
+    "title": "The K Weakest Rows in a Matrix",
+    "title_slug": "the-k-weakest-rows-in-a-matrix",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Heap (Priority Queue)",
+      "Matrix",
+      "Sorting"
+    ]
   }
 ]
