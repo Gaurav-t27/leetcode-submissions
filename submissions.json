@@ -786,5 +786,15 @@
       "Heap (Priority Queue)",
       "Sorting"
     ]
+  },
+  {
+    "id": 2231,
+    "title": "Largest Number After Digit Swaps by Parity",
+    "title_slug": "largest-number-after-digit-swaps-by-parity",
+    "difficulty": "Easy",
+    "skills": [
+      "Heap (Priority Queue)",
+      "Sorting"
+    ]
   }
 ]
