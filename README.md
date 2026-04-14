@@ -69,4 +69,5 @@
 | 0647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | Medium | `Dynamic Programming` `String` `Two Pointers` |
 | 0703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream) | Easy | `Binary Search Tree` `Binary Tree` `Data Stream` `Design` `Heap (Priority Queue)` `Tree` |
 | 0705 | [Design HashSet](https://leetcode.com/problems/design-hashset) | Easy | `Array` `Design` `Hash Function` `Hash Table` `Linked List` |
+| 0706 | [Design HashMap](https://leetcode.com/problems/design-hashmap) | Easy | `Array` `Design` `Hash Function` `Hash Table` `Linked List` |
 | 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses) | Medium | `Stack` `String` |

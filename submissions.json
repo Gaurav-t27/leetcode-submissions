@@ -709,6 +709,19 @@
     ]
   },
   {
+    "id": 706,
+    "title": "Design HashMap",
+    "title_slug": "design-hashmap",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Design",
+      "Hash Function",
+      "Hash Table",
+      "Linked List"
+    ]
+  },
+  {
     "id": 1249,
     "title": "Minimum Remove to Make Valid Parentheses",
     "title_slug": "minimum-remove-to-make-valid-parentheses",
