@@ -79,3 +79,4 @@
 | 2231 | [Largest Number After Digit Swaps by Parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity) | Easy | `Heap (Priority Queue)` `Sorting` |
 | 2335 | [Minimum Amount of Time to Fill Cups](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups) | Easy | `Array` `Greedy` `Heap (Priority Queue)` `Sorting` |
 | 2357 | [Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts) | Easy | `Array` `Greedy` `Hash Table` `Heap (Priority Queue)` `Simulation` `Sorting` |
+| 2500 | [Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row) | Easy | `Array` `Heap (Priority Queue)` `Matrix` `Simulation` `Sorting` |

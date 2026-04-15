@@ -822,5 +822,18 @@
       "Simulation",
       "Sorting"
     ]
+  },
+  {
+    "id": 2500,
+    "title": "Delete Greatest Value in Each Row",
+    "title_slug": "delete-greatest-value-in-each-row",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Heap (Priority Queue)",
+      "Matrix",
+      "Simulation",
+      "Sorting"
+    ]
   }
 ]
