@@ -808,5 +808,19 @@
       "Heap (Priority Queue)",
       "Sorting"
     ]
+  },
+  {
+    "id": 2357,
+    "title": "Make Array Zero by Subtracting Equal Amounts",
+    "title_slug": "make-array-zero-by-subtracting-equal-amounts",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Hash Table",
+      "Heap (Priority Queue)",
+      "Simulation",
+      "Sorting"
+    ]
   }
 ]
