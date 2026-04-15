@@ -796,5 +796,17 @@
       "Heap (Priority Queue)",
       "Sorting"
     ]
+  },
+  {
+    "id": 2335,
+    "title": "Minimum Amount of Time to Fill Cups",
+    "title_slug": "minimum-amount-of-time-to-fill-cups",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Heap (Priority Queue)",
+      "Sorting"
+    ]
   }
 ]
