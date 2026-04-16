@@ -62,6 +62,7 @@
 | 0338 | [Counting Bits](https://leetcode.com/problems/counting-bits) | Easy | `Bit Manipulation` `Dynamic Programming` |
 | 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | Medium | `Array` `Bucket Sort` `Counting` `Divide and Conquer` `Hash Table` `Heap (Priority Queue)` `Quickselect` `Sorting` |
 | 0371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers) | Medium | `Bit Manipulation` `Math` |
+| 0392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | Easy | `Dynamic Programming` `String` `Two Pointers` |
 | 0417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow) | Medium | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` |
 | 0424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) | Medium | `Hash Table` `Sliding Window` `String` |
 | 0435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals) | Medium | `Array` `Dynamic Programming` `Greedy` `Sorting` |

@@ -621,6 +621,17 @@
     ]
   },
   {
+    "id": 392,
+    "title": "Is Subsequence",
+    "title_slug": "is-subsequence",
+    "difficulty": "Easy",
+    "skills": [
+      "Dynamic Programming",
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 417,
     "title": "Pacific Atlantic Water Flow",
     "title_slug": "pacific-atlantic-water-flow",
