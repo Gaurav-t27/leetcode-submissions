@@ -797,6 +797,17 @@
     ]
   },
   {
+    "id": 1137,
+    "title": "N-th Tribonacci Number",
+    "title_slug": "n-th-tribonacci-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Dynamic Programming",
+      "Math",
+      "Memoization"
+    ]
+  },
+  {
     "id": 1249,
     "title": "Minimum Remove to Make Valid Parentheses",
     "title_slug": "minimum-remove-to-make-valid-parentheses",

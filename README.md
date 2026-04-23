@@ -77,6 +77,7 @@
 | 0746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | Easy | `Array` `Dynamic Programming` |
 | 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game) | Easy | `Brainteaser` `Dynamic Programming` `Game Theory` `Math` |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight) | Easy | `Array` `Heap (Priority Queue)` |
+| 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number) | Easy | `Dynamic Programming` `Math` `Memoization` |
 | 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses) | Medium | `Stack` `String` |
 | 1337 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix) | Easy | `Array` `Binary Search` `Heap (Priority Queue)` `Matrix` `Sorting` |
 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array) | Easy | `Array` `Heap (Priority Queue)` `Sorting` |
