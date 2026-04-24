@@ -842,6 +842,17 @@
     ]
   },
   {
+    "id": 1668,
+    "title": "Maximum Repeating Substring",
+    "title_slug": "maximum-repeating-substring",
+    "difficulty": "Easy",
+    "skills": [
+      "Dynamic Programming",
+      "String",
+      "String Matching"
+    ]
+  },
+  {
     "id": 2099,
     "title": "Find Subsequence of Length K With the Largest Sum",
     "title_slug": "find-subsequence-of-length-k-with-the-largest-sum",
