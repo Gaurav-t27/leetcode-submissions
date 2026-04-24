@@ -10,6 +10,7 @@
 | 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | Medium | `Hash Table` `Sliding Window` `String` |
 | 0005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | Medium | `Dynamic Programming` `String` `Two Pointers` |
 | 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | Medium | `Array` `Greedy` `Two Pointers` |
+| 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | Easy | `Hash Table` `Math` `String` |
 | 0015 | [3Sum](https://leetcode.com/problems/3sum) | Medium | `Array` `Sorting` `Two Pointers` |
 | 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | Medium | `Linked List` `Two Pointers` |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | Easy | `Stack` `String` |
