@@ -925,6 +925,16 @@
     ]
   },
   {
+    "id": 2833,
+    "title": "Furthest Point From Origin",
+    "title_slug": "furthest-point-from-origin",
+    "difficulty": "Easy",
+    "skills": [
+      "Counting",
+      "String"
+    ]
+  },
+  {
     "id": 2900,
     "title": "Longest Unequal Adjacent Groups Subsequence I",
     "title_slug": "longest-unequal-adjacent-groups-subsequence-i",
