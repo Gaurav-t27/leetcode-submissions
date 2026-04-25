@@ -60,6 +60,7 @@
 | 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | Medium | `Array` `Prefix Sum` |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | Easy | `Hash Table` `Sorting` `String` |
 | 0268 | [Missing Number](https://leetcode.com/problems/missing-number) | Easy | `Array` `Binary Search` `Bit Manipulation` `Hash Table` `Math` `Sorting` |
+| 0290 | [Word Pattern](https://leetcode.com/problems/word-pattern) | Easy | `Hash Table` `String` |
 | 0295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) | Hard | `Data Stream` `Design` `Heap (Priority Queue)` `Sorting` `Two Pointers` |
 | 0300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) | Medium | `Array` `Binary Search` `Dynamic Programming` |
 | 0322 | [Coin Change](https://leetcode.com/problems/coin-change) | Medium | `Array` `Breadth-First Search` `Dynamic Programming` |

@@ -595,6 +595,16 @@
     ]
   },
   {
+    "id": 290,
+    "title": "Word Pattern",
+    "title_slug": "word-pattern",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 295,
     "title": "Find Median from Data Stream",
     "title_slug": "find-median-from-data-stream",
