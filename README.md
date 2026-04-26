@@ -68,6 +68,7 @@
 | 0338 | [Counting Bits](https://leetcode.com/problems/counting-bits) | Easy | `Bit Manipulation` `Dynamic Programming` |
 | 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | Medium | `Array` `Bucket Sort` `Counting` `Divide and Conquer` `Hash Table` `Heap (Priority Queue)` `Quickselect` `Sorting` |
 | 0349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | Easy | `Array` `Binary Search` `Hash Table` `Sorting` `Two Pointers` |
+| 0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | Easy | `Array` `Binary Search` `Hash Table` `Sorting` `Two Pointers` |
 | 0371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers) | Medium | `Bit Manipulation` `Math` |
 | 0392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | Easy | `Dynamic Programming` `String` `Two Pointers` |
 | 0417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow) | Medium | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` |
