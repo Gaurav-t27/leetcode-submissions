@@ -827,6 +827,17 @@
     ]
   },
   {
+    "id": 500,
+    "title": "Keyboard Row",
+    "title_slug": "keyboard-row",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 506,
     "title": "Relative Ranks",
     "title_slug": "relative-ranks",
