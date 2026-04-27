@@ -885,6 +885,16 @@
     ]
   },
   {
+    "id": 575,
+    "title": "Distribute Candies",
+    "title_slug": "distribute-candies",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 647,
     "title": "Palindromic Substrings",
     "title_slug": "palindromic-substrings",
