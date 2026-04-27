@@ -759,6 +759,17 @@
     ]
   },
   {
+    "id": 409,
+    "title": "Longest Palindrome",
+    "title_slug": "longest-palindrome",
+    "difficulty": "Easy",
+    "skills": [
+      "Greedy",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 417,
     "title": "Pacific Atlantic Water Flow",
     "title_slug": "pacific-atlantic-water-flow",

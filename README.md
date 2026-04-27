@@ -74,6 +74,7 @@
 | 0387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | Easy | `Counting` `Hash Table` `Queue` `String` |
 | 0389 | [Find the Difference](https://leetcode.com/problems/find-the-difference) | Easy | `Bit Manipulation` `Hash Table` `Sorting` `String` |
 | 0392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | Easy | `Dynamic Programming` `String` `Two Pointers` |
+| 0409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) | Easy | `Greedy` `Hash Table` `String` |
 | 0417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow) | Medium | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` |
 | 0424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) | Medium | `Hash Table` `Sliding Window` `String` |
 | 0435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals) | Medium | `Array` `Dynamic Programming` `Greedy` `Sorting` |
