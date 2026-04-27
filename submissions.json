@@ -815,6 +815,18 @@
     ]
   },
   {
+    "id": 496,
+    "title": "Next Greater Element I",
+    "title_slug": "next-greater-element-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Monotonic Stack",
+      "Stack"
+    ]
+  },
+  {
     "id": 506,
     "title": "Relative Ranks",
     "title_slug": "relative-ranks",
