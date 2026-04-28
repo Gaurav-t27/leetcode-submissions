@@ -87,6 +87,7 @@
 | 0572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) | Easy | `Binary Tree` `Depth-First Search` `Hash Function` `String Matching` `Tree` |
 | 0575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies) | Easy | `Array` `Hash Table` |
 | 0594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence) | Easy | `Array` `Counting` `Hash Table` `Sliding Window` `Sorting` |
+| 0643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i) | Easy | `Array` `Sliding Window` |
 | 0647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | Medium | `Dynamic Programming` `String` `Two Pointers` |
 | 0703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream) | Easy | `Binary Search Tree` `Binary Tree` `Data Stream` `Design` `Heap (Priority Queue)` `Tree` |
 | 0705 | [Design HashSet](https://leetcode.com/problems/design-hashset) | Easy | `Array` `Design` `Hash Function` `Hash Table` `Linked List` |
