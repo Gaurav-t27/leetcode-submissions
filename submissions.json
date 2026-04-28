@@ -895,6 +895,19 @@
     ]
   },
   {
+    "id": 594,
+    "title": "Longest Harmonious Subsequence",
+    "title_slug": "longest-harmonious-subsequence",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting",
+      "Hash Table",
+      "Sliding Window",
+      "Sorting"
+    ]
+  },
+  {
     "id": 647,
     "title": "Palindromic Substrings",
     "title_slug": "palindromic-substrings",
