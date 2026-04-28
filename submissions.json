@@ -1046,6 +1046,16 @@
     ]
   },
   {
+    "id": 1652,
+    "title": "Defuse the Bomb",
+    "title_slug": "defuse-the-bomb",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 1668,
     "title": "Maximum Repeating Substring",
     "title_slug": "maximum-repeating-substring",
