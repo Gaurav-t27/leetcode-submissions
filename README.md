@@ -101,6 +101,7 @@
 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array) | Easy | `Array` `Heap (Priority Queue)` `Sorting` |
 | 1652 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb) | Easy | `Array` `Sliding Window` |
 | 1668 | [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring) | Easy | `Dynamic Programming` `String` `String Matching` |
+| 1763 | [Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring) | Easy | `Bit Manipulation` `Divide and Conquer` `Hash Table` `Sliding Window` `String` |
 | 2099 | [Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum) | Easy | `Array` `Hash Table` `Heap (Priority Queue)` `Sorting` |
 | 2231 | [Largest Number After Digit Swaps by Parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity) | Easy | `Heap (Priority Queue)` `Sorting` |
 | 2335 | [Minimum Amount of Time to Fill Cups](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups) | Easy | `Array` `Greedy` `Heap (Priority Queue)` `Sorting` |

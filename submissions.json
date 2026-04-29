@@ -1067,6 +1067,19 @@
     ]
   },
   {
+    "id": 1763,
+    "title": "Longest Nice Substring",
+    "title_slug": "longest-nice-substring",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation",
+      "Divide and Conquer",
+      "Hash Table",
+      "Sliding Window",
+      "String"
+    ]
+  },
+  {
     "id": 2099,
     "title": "Find Subsequence of Length K With the Largest Sum",
     "title_slug": "find-subsequence-of-length-k-with-the-largest-sum",
