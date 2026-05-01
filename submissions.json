@@ -1056,6 +1056,19 @@
     ]
   },
   {
+    "id": 897,
+    "title": "Increasing Order Search Tree",
+    "title_slug": "increasing-order-search-tree",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Search Tree",
+      "Binary Tree",
+      "Depth-First Search",
+      "Stack",
+      "Tree"
+    ]
+  },
+  {
     "id": 1025,
     "title": "Divisor Game",
     "title_slug": "divisor-game",
