@@ -967,6 +967,21 @@
     ]
   },
   {
+    "id": 653,
+    "title": "Two Sum IV - Input is a BST",
+    "title_slug": "two-sum-iv-input-is-a-bst",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Search Tree",
+      "Binary Tree",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Hash Table",
+      "Tree",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 703,
     "title": "Kth Largest Element in a Stream",
     "title_slug": "kth-largest-element-in-a-stream",
