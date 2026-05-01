@@ -27,6 +27,7 @@
 | 0076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | Hard | `Hash Table` `Sliding Window` `String` |
 | 0079 | [Word Search](https://leetcode.com/problems/word-search) | Medium | `Array` `Backtracking` `Depth-First Search` `Matrix` `String` |
 | 0091 | [Decode Ways](https://leetcode.com/problems/decode-ways) | Medium | `Dynamic Programming` `String` |
+| 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | Easy | `Binary Tree` `Depth-First Search` `Stack` `Tree` |
 | 0100 | [Same Tree](https://leetcode.com/problems/same-tree) | Easy | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 0102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | Medium | `Binary Tree` `Breadth-First Search` `Tree` |
 | 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | Easy | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
