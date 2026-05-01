@@ -98,6 +98,7 @@
 | 0705 | [Design HashSet](https://leetcode.com/problems/design-hashset) | Easy | `Array` `Design` `Hash Function` `Hash Table` `Linked List` |
 | 0706 | [Design HashMap](https://leetcode.com/problems/design-hashmap) | Easy | `Array` `Design` `Hash Function` `Hash Table` `Linked List` |
 | 0746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | Easy | `Array` `Dynamic Programming` |
+| 0783 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes) | Easy | `Binary Search Tree` `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game) | Easy | `Brainteaser` `Dynamic Programming` `Game Theory` `Math` |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight) | Easy | `Array` `Heap (Priority Queue)` |
 | 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number) | Easy | `Dynamic Programming` `Math` `Memoization` |

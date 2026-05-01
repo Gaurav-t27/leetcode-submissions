@@ -1043,6 +1043,19 @@
     ]
   },
   {
+    "id": 783,
+    "title": "Minimum Distance Between BST Nodes",
+    "title_slug": "minimum-distance-between-bst-nodes",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Search Tree",
+      "Binary Tree",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 1025,
     "title": "Divisor Game",
     "title_slug": "divisor-game",
