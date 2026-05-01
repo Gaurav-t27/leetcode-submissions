@@ -886,6 +886,19 @@
     ]
   },
   {
+    "id": 530,
+    "title": "Minimum Absolute Difference in BST",
+    "title_slug": "minimum-absolute-difference-in-bst",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Search Tree",
+      "Binary Tree",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 560,
     "title": "Subarray Sum Equals K",
     "title_slug": "subarray-sum-equals-k",
