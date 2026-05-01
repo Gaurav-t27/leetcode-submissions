@@ -93,6 +93,7 @@
 | 0643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i) | Easy | `Array` `Sliding Window` |
 | 0647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | Medium | `Dynamic Programming` `String` `Two Pointers` |
 | 0653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst) | Easy | `Binary Search Tree` `Binary Tree` `Breadth-First Search` `Depth-First Search` `Hash Table` `Tree` `Two Pointers` |
+| 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | Easy | `Binary Search Tree` `Binary Tree` `Tree` |
 | 0703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream) | Easy | `Binary Search Tree` `Binary Tree` `Data Stream` `Design` `Heap (Priority Queue)` `Tree` |
 | 0705 | [Design HashSet](https://leetcode.com/problems/design-hashset) | Easy | `Array` `Design` `Hash Function` `Hash Table` `Linked List` |
 | 0706 | [Design HashMap](https://leetcode.com/problems/design-hashmap) | Easy | `Array` `Design` `Hash Function` `Hash Table` `Linked List` |

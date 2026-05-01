@@ -982,6 +982,17 @@
     ]
   },
   {
+    "id": 700,
+    "title": "Search in a Binary Search Tree",
+    "title_slug": "search-in-a-binary-search-tree",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Search Tree",
+      "Binary Tree",
+      "Tree"
+    ]
+  },
+  {
     "id": 703,
     "title": "Kth Largest Element in a Stream",
     "title_slug": "kth-largest-element-in-a-stream",
