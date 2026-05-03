@@ -214,6 +214,15 @@
     ]
   },
   {
+    "id": 83,
+    "title": "Remove Duplicates from Sorted List",
+    "title_slug": "remove-duplicates-from-sorted-list",
+    "difficulty": "Easy",
+    "skills": [
+      "Linked List"
+    ]
+  },
+  {
     "id": 91,
     "title": "Decode Ways",
     "title_slug": "decode-ways",
