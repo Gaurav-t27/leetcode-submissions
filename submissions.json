@@ -117,6 +117,16 @@
     ]
   },
   {
+    "id": 35,
+    "title": "Search Insert Position",
+    "title_slug": "search-insert-position",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
     "id": 46,
     "title": "Permutations",
     "title_slug": "permutations",
