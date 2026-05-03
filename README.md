@@ -128,3 +128,4 @@
 | 2558 | [Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile) | Easy | `Array` `Heap (Priority Queue)` `Simulation` |
 | 2833 | [Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin) | Easy | `Counting` `String` |
 | 2900 | [Longest Unequal Adjacent Groups Subsequence I](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i) | Easy | `Array` `Dynamic Programming` `Greedy` `String` |
+| 2974 | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game) | Easy | `Array` `Heap (Priority Queue)` `Simulation` `Sorting` |
