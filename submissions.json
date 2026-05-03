@@ -650,6 +650,18 @@
     ]
   },
   {
+    "id": 234,
+    "title": "Palindrome Linked List",
+    "title_slug": "palindrome-linked-list",
+    "difficulty": "Easy",
+    "skills": [
+      "Linked List",
+      "Recursion",
+      "Stack",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 235,
     "title": "Lowest Common Ancestor of a Binary Search Tree",
     "title_slug": "lowest-common-ancestor-of-a-binary-search-tree",
