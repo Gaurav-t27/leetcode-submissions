@@ -1303,6 +1303,18 @@
     ]
   },
   {
+    "id": 1876,
+    "title": "Substrings of Size Three with Distinct Characters",
+    "title_slug": "substrings-of-size-three-with-distinct-characters",
+    "difficulty": "Easy",
+    "skills": [
+      "Counting",
+      "Hash Table",
+      "Sliding Window",
+      "String"
+    ]
+  },
+  {
     "id": 2099,
     "title": "Find Subsequence of Length K With the Largest Sum",
     "title_slug": "find-subsequence-of-length-k-with-the-largest-sum",
