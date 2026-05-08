@@ -1315,6 +1315,17 @@
     ]
   },
   {
+    "id": 1984,
+    "title": "Minimum Difference Between Highest and Lowest of K Scores",
+    "title_slug": "minimum-difference-between-highest-and-lowest-of-k-scores",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Sliding Window",
+      "Sorting"
+    ]
+  },
+  {
     "id": 2099,
     "title": "Find Subsequence of Length K With the Largest Sum",
     "title_slug": "find-subsequence-of-length-k-with-the-largest-sum",
