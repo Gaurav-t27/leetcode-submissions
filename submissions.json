@@ -1385,6 +1385,16 @@
     ]
   },
   {
+    "id": 2379,
+    "title": "Minimum Recolors to Get K Consecutive Black Blocks",
+    "title_slug": "minimum-recolors-to-get-k-consecutive-black-blocks",
+    "difficulty": "Easy",
+    "skills": [
+      "Sliding Window",
+      "String"
+    ]
+  },
+  {
     "id": 2500,
     "title": "Delete Greatest Value in Each Row",
     "title_slug": "delete-greatest-value-in-each-row",

@@ -128,6 +128,7 @@
 | 2269 | [Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number) | Easy | `Math` `Sliding Window` `String` |
 | 2335 | [Minimum Amount of Time to Fill Cups](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups) | Easy | `Array` `Greedy` `Heap (Priority Queue)` `Sorting` |
 | 2357 | [Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts) | Easy | `Array` `Greedy` `Hash Table` `Heap (Priority Queue)` `Simulation` `Sorting` |
+| 2379 | [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks) | Easy | `Sliding Window` `String` |
 | 2500 | [Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row) | Easy | `Array` `Heap (Priority Queue)` `Matrix` `Simulation` `Sorting` |
 | 2558 | [Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile) | Easy | `Array` `Heap (Priority Queue)` `Simulation` |
 | 2833 | [Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin) | Easy | `Counting` `String` |
