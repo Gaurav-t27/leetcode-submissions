@@ -1348,6 +1348,17 @@
     ]
   },
   {
+    "id": 2269,
+    "title": "Find the K-Beauty of a Number",
+    "title_slug": "find-the-k-beauty-of-a-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "Sliding Window",
+      "String"
+    ]
+  },
+  {
     "id": 2335,
     "title": "Minimum Amount of Time to Fill Cups",
     "title_slug": "minimum-amount-of-time-to-fill-cups",
