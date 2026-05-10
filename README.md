@@ -131,6 +131,7 @@
 | 2379 | [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks) | Easy | `Sliding Window` `String` |
 | 2500 | [Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row) | Easy | `Array` `Heap (Priority Queue)` `Matrix` `Simulation` `Sorting` |
 | 2558 | [Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile) | Easy | `Array` `Heap (Priority Queue)` `Simulation` |
+| 2760 | [Longest Even Odd Subarray With Threshold](https://leetcode.com/problems/longest-even-odd-subarray-with-threshold) | Easy | `Array` `Sliding Window` |
 | 2833 | [Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin) | Easy | `Counting` `String` |
 | 2900 | [Longest Unequal Adjacent Groups Subsequence I](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i) | Easy | `Array` `Dynamic Programming` `Greedy` `String` |
 | 2974 | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game) | Easy | `Array` `Heap (Priority Queue)` `Simulation` `Sorting` |
