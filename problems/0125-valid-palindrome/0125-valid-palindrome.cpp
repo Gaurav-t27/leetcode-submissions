@@ -1,18 +1,18 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        s.erase(remove_if(s.begin(), s.end(),[](unsigned char c){return !isalnum(c);}) , s.end());
-        transform(s.begin(),s.end(), s.begin(), [](unsigned char c){return tolower(c);});
-        int l = 0, r = s.size() - 1;
-
-        while(l <= r)
-        {
-            if(s[l] != s[r])
+        int n = s.size();
+        int low=0, high=n-1;
+        while(low<high) {
+            while(low<high && !std::isalnum(s[low]))
+                low++;
+            while(low<high && !std::isalnum(s[high]))
+                high--;
+            if(std::tolower(s[low]) != std::tolower(s[high]))
                 return false;
-            
-            l++;
-            r--;
+            low++;
+            high--;
         }
-        return true;     
+        return true;
     }
 };
