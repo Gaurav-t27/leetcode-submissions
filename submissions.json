@@ -1380,6 +1380,16 @@
     ]
   },
   {
+    "id": 1768,
+    "title": "Merge Strings Alternately",
+    "title_slug": "merge-strings-alternately",
+    "difficulty": "Easy",
+    "skills": [
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 1876,
     "title": "Substrings of Size Three with Distinct Characters",
     "title_slug": "substrings-of-size-three-with-distinct-characters",
