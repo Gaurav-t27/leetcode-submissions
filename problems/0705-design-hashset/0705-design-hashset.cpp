@@ -1,38 +1,32 @@
 class MyHashSet {
-    size_t table_size;
-    std::vector<std::vector<int>> table;
+    vector<vector<int>> buff_;
+    int capacity_;
 
-    int hashFunction(int key) {
-        return key % table_size;
-    }    
+    int getHash(int key) {
+        return key & (capacity_-1);
+    }
 public:
-    MyHashSet() :table_size(10000){
-        table.resize(table_size);
+    MyHashSet() :capacity_(1024*128) {
+        buff_.resize(capacity_);
     }
     
     void add(int key) {
-        int idx = hashFunction(key);
-        
-        if (std::find(table[idx].begin(), table[idx].end(), key) == table[idx].end()) {
-            table[idx].push_back(key);
-        }
+        if(contains(key)) return;
+        int idx = getHash(key);
+
+        buff_[idx].push_back(key);
     }
     
     void remove(int key) {
-        int idx = hashFunction(key);
+        int idx = getHash(key);
 
-        auto & bucket = table[idx];
-        auto it = std::find(bucket.begin(),bucket.end(),key);
-        if(it != bucket.end()) {
-            *it = bucket.back();
-            bucket.pop_back();
-        }
+        buff_[idx].erase(std::remove(buff_[idx].begin(),buff_[idx].end(),key),buff_[idx].end());
     }
     
     bool contains(int key) {
-        int idx = hashFunction(key);
-        auto& bucket = table[idx];
-        return std::find(bucket.begin(),bucket.end(),key) != bucket.end();
+        int idx = getHash(key);
+
+        return find(buff_[idx].begin(),buff_[idx].end(), key) != buff_[idx].end();
 
     }
 };
