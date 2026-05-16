@@ -1,12 +1,12 @@
 class MyHashMap {
     vector<list<pair<int,int>>> bucket_;
-    size_t size_;
+    size_t capacity_;
     int getHash(int key) const {
-        return key % size_;
+        return key & (capacity_-1);
     }
 public:
-    MyHashMap():size_(1031) {
-        bucket_.resize(size_);
+    MyHashMap():capacity_(16384) {
+        bucket_.resize(capacity_);
     }
     
     void put(int key, int value) {
@@ -34,12 +34,7 @@ public:
     
     void remove(int key) {
         int idx = getHash(key);
-        for(auto it = bucket_[idx].begin();it != bucket_[idx].end(); it++) {
-            if(it->first == key) {
-                bucket_[idx].erase(it);
-                return;
-            }
-        }
+        bucket_[idx].remove_if([key](const auto& p) { return p.first == key;});
     }
 };
 
