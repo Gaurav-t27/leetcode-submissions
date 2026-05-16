@@ -1169,6 +1169,17 @@
     ]
   },
   {
+    "id": 680,
+    "title": "Valid Palindrome II",
+    "title_slug": "valid-palindrome-ii",
+    "difficulty": "Easy",
+    "skills": [
+      "Greedy",
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 700,
     "title": "Search in a Binary Search Tree",
     "title_slug": "search-in-a-binary-search-tree",
