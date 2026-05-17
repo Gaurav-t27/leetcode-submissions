@@ -1191,6 +1191,17 @@
     ]
   },
   {
+    "id": 682,
+    "title": "Baseball Game",
+    "title_slug": "baseball-game",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Simulation",
+      "Stack"
+    ]
+  },
+  {
     "id": 700,
     "title": "Search in a Binary Search Tree",
     "title_slug": "search-in-a-binary-search-tree",
