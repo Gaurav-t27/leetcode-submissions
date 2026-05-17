@@ -117,6 +117,7 @@
 | 0682 | [Baseball Game](https://leetcode.com/problems/baseball-game) | Easy | `Array` `Simulation` `Stack` |
 | 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | Easy | `Binary Search Tree` `Binary Tree` `Tree` |
 | 0703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream) | Easy | `Binary Search Tree` `Binary Tree` `Data Stream` `Design` `Heap (Priority Queue)` `Tree` |
+| 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | `Array` `Binary Search` |
 | 0705 | [Design HashSet](https://leetcode.com/problems/design-hashset) | Easy | `Array` `Design` `Hash Function` `Hash Table` `Linked List` |
 | 0706 | [Design HashMap](https://leetcode.com/problems/design-hashmap) | Easy | `Array` `Design` `Hash Function` `Hash Table` `Linked List` |
 | 0746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | Easy | `Array` `Dynamic Programming` |
