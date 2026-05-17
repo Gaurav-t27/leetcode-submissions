@@ -275,6 +275,17 @@
     ]
   },
   {
+    "id": 88,
+    "title": "Merge Sorted Array",
+    "title_slug": "merge-sorted-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 91,
     "title": "Decode Ways",
     "title_slug": "decode-ways",
