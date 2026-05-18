@@ -26,7 +26,6 @@ public:
             if(curr->left) s1.push(curr->left);
             if(curr->right) s1.push(curr->right);
         }
-
         vector<int> res;
         while(!s2.empty()) {
             res.push_back(s2.top()->val);
