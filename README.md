@@ -28,6 +28,7 @@
 | 0056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | Medium | `Array` `Sorting` |
 | 0057 | [Insert Interval](https://leetcode.com/problems/insert-interval) | Medium | `Array` |
 | 0062 | [Unique Paths](https://leetcode.com/problems/unique-paths) | Medium | `Combinatorics` `Dynamic Programming` `Math` |
+| 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | Easy | `Binary Search` `Math` |
 | 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy | `Dynamic Programming` `Math` `Memoization` |
 | 0076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | Hard | `Hash Table` `Sliding Window` `String` |
 | 0079 | [Word Search](https://leetcode.com/problems/word-search) | Medium | `Array` `Backtracking` `Depth-First Search` `Matrix` `String` |
