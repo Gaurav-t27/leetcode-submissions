@@ -933,6 +933,16 @@
     ]
   },
   {
+    "id": 374,
+    "title": "Guess Number Higher or Lower",
+    "title_slug": "guess-number-higher-or-lower",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Search",
+      "Interactive"
+    ]
+  },
+  {
     "id": 380,
     "title": "Insert Delete GetRandom O(1)",
     "title_slug": "insert-delete-getrandom-o1",
