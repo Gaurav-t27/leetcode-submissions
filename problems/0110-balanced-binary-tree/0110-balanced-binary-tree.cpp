@@ -10,32 +10,23 @@
  * };
  */
 class Solution {
+    int checkHeight(TreeNode* node) {
+        if(!node) return 0;
+
+        int lh = checkHeight(node->left);
+        if(lh == -1) return -1;
+
+        int rh = checkHeight(node->right);
+        if(rh == -1) return -1;
+
+        if(abs(rh-lh)>1) return -1;
+
+        return 1 + max(lh, rh);
+    }
 public:
     bool isBalanced(TreeNode* root) {
         if(!root) return true;
-        unordered_map<TreeNode*, int> height;
-
-        stack<TreeNode*> s1;
-        s1.push(root);
-        stack<TreeNode*> s2;
-        while(!s1.empty()) {
-            TreeNode* curr = s1.top();
-            s1.pop();
-            s2.push(curr);
-
-            if(curr->left) s1.push(curr->left);
-            if(curr->right) s1.push(curr->right);
-        }
-
-        while(!s2.empty()) {
-            TreeNode * curr = s2.top();
-            s2.pop();
-            int lh = curr->left ? height[curr->left]:0;
-            int rh = curr->right ? height[curr->right]:0;
-
-            if(abs(lh-rh) > 1) return false;
-            height[curr] = 1 + max(lh,rh);
-        }
-        return true;
+        
+        return checkHeight(root) != -1;
     }
 };
