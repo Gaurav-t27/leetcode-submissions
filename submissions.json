@@ -1139,6 +1139,17 @@
     ]
   },
   {
+    "id": 543,
+    "title": "Diameter of Binary Tree",
+    "title_slug": "diameter-of-binary-tree",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Tree",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 560,
     "title": "Subarray Sum Equals K",
     "title_slug": "subarray-sum-equals-k",
