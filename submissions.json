@@ -946,6 +946,18 @@
     ]
   },
   {
+    "id": 355,
+    "title": "Design Twitter",
+    "title_slug": "design-twitter",
+    "difficulty": "Medium",
+    "skills": [
+      "Design",
+      "Hash Table",
+      "Heap (Priority Queue)",
+      "Linked List"
+    ]
+  },
+  {
     "id": 371,
     "title": "Sum of Two Integers",
     "title_slug": "sum-of-two-integers",

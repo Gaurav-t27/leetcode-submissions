@@ -91,6 +91,7 @@
 | 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | Medium | `Array` `Bucket Sort` `Counting` `Divide and Conquer` `Hash Table` `Heap (Priority Queue)` `Quickselect` `Sorting` |
 | 0349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | Easy | `Array` `Binary Search` `Hash Table` `Sorting` `Two Pointers` |
 | 0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | Easy | `Array` `Binary Search` `Hash Table` `Sorting` `Two Pointers` |
+| 0355 | [Design Twitter](https://leetcode.com/problems/design-twitter) | Medium | `Design` `Hash Table` `Heap (Priority Queue)` `Linked List` |
 | 0371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers) | Medium | `Bit Manipulation` `Math` |
 | 0374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower) | Easy | `Binary Search` `Interactive` |
 | 0380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) | Medium | `Array` `Design` `Hash Table` `Math` `Randomized` |
