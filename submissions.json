@@ -1529,6 +1529,17 @@
     ]
   },
   {
+    "id": 1834,
+    "title": "Single-Threaded CPU",
+    "title_slug": "single-threaded-cpu",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Heap (Priority Queue)",
+      "Sorting"
+    ]
+  },
+  {
     "id": 1876,
     "title": "Substrings of Size Three with Distinct Characters",
     "title_slug": "substrings-of-size-three-with-distinct-characters",

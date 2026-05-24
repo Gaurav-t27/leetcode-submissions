@@ -141,6 +141,7 @@
 | 1668 | [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring) | Easy | `Dynamic Programming` `String` `String Matching` |
 | 1763 | [Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring) | Easy | `Bit Manipulation` `Divide and Conquer` `Hash Table` `Sliding Window` `String` |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | Easy | `String` `Two Pointers` |
+| 1834 | [Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu) | Medium | `Array` `Heap (Priority Queue)` `Sorting` |
 | 1876 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters) | Easy | `Counting` `Hash Table` `Sliding Window` `String` |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | Easy | `Array` `Simulation` |
 | 1984 | [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores) | Easy | `Array` `Sliding Window` `Sorting` |
