@@ -127,6 +127,7 @@
 | 0705 | [Design HashSet](https://leetcode.com/problems/design-hashset) | Easy | `Array` `Design` `Hash Function` `Hash Table` `Linked List` |
 | 0706 | [Design HashMap](https://leetcode.com/problems/design-hashmap) | Easy | `Array` `Design` `Hash Function` `Hash Table` `Linked List` |
 | 0746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | Easy | `Array` `Dynamic Programming` |
+| 0767 | [Reorganize String](https://leetcode.com/problems/reorganize-string) | Medium | `Counting` `Greedy` `Hash Table` `Heap (Priority Queue)` `Sorting` `String` |
 | 0783 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes) | Easy | `Binary Search Tree` `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 0897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree) | Easy | `Binary Search Tree` `Binary Tree` `Depth-First Search` `Stack` `Tree` |
 | 0938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | Easy | `Binary Search Tree` `Binary Tree` `Depth-First Search` `Tree` |

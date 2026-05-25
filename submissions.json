@@ -1365,6 +1365,20 @@
     ]
   },
   {
+    "id": 767,
+    "title": "Reorganize String",
+    "title_slug": "reorganize-string",
+    "difficulty": "Medium",
+    "skills": [
+      "Counting",
+      "Greedy",
+      "Hash Table",
+      "Heap (Priority Queue)",
+      "Sorting",
+      "String"
+    ]
+  },
+  {
     "id": 783,
     "title": "Minimum Distance Between BST Nodes",
     "title_slug": "minimum-distance-between-bst-nodes",
