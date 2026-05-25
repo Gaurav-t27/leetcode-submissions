@@ -1488,6 +1488,17 @@
     ]
   },
   {
+    "id": 1405,
+    "title": "Longest Happy String",
+    "title_slug": "longest-happy-string",
+    "difficulty": "Medium",
+    "skills": [
+      "Greedy",
+      "Heap (Priority Queue)",
+      "String"
+    ]
+  },
+  {
     "id": 1464,
     "title": "Maximum Product of Two Elements in an Array",
     "title_slug": "maximum-product-of-two-elements-in-an-array",

@@ -137,6 +137,7 @@
 | 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number) | Easy | `Dynamic Programming` `Math` `Memoization` |
 | 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses) | Medium | `Stack` `String` |
 | 1337 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix) | Easy | `Array` `Binary Search` `Heap (Priority Queue)` `Matrix` `Sorting` |
+| 1405 | [Longest Happy String](https://leetcode.com/problems/longest-happy-string) | Medium | `Greedy` `Heap (Priority Queue)` `String` |
 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array) | Easy | `Array` `Heap (Priority Queue)` `Sorting` |
 | 1652 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb) | Easy | `Array` `Sliding Window` |
 | 1668 | [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring) | Easy | `Dynamic Programming` `String` `String Matching` |
