@@ -1454,6 +1454,19 @@
     ]
   },
   {
+    "id": 1094,
+    "title": "Car Pooling",
+    "title_slug": "car-pooling",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Heap (Priority Queue)",
+      "Prefix Sum",
+      "Simulation",
+      "Sorting"
+    ]
+  },
+  {
     "id": 1137,
     "title": "N-th Tribonacci Number",
     "title_slug": "n-th-tribonacci-number",
